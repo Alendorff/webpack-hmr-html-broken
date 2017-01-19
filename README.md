@@ -1,0 +1,1 @@
+[See my stackoverflow question](http://stackoverflow.com/questions/41733375/webpack-hmr-does-not-reload-html)
